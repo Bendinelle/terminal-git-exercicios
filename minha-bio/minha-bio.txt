@@ -1,2 +1,6 @@
 Ola meu nome é Wenderson Bendinelle, Tenho 27 anos, moro em MG, estou no ultimo ano de ads e sou aluno Dev na Labenu.
+<<<<<<< HEAD
+Espero ser um Programador em breve ...
+=======
 Espero ser um Programador, em breve ...
+>>>>>>> 37756b35c7e554df10756c6117b641e5dbe9ca15
